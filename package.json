@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
@@ -66,4 +67,17 @@
     "typescript": "^5.2.2",
     "vite": "^5.1.6"
   }
+=======
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.6.4",
+        "laravel-vite-plugin": "^1.0.0",
+        "vite": "^5.0.0"
+    }
+>>>>>>> 2a7edb51dbabfb976163b564dbdc3aca890658cb
 }
